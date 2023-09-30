@@ -1,0 +1,86 @@
+body{
+    background-color: pink;
+    font-family: sans-serif;
+}
+.inner{
+    border: 2px solid white;
+    background-color: white;
+    width: 1300px;
+    height: 550px;
+    margin-left: 6rem;
+    margin-top: 6rem;
+    position: absolute;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: row;
+}
+h1{
+    margin-top: 2.5em;
+    display: flex;
+    justify-content: center; 
+    font-family: 'Caveat', cursive;
+    /* font-family: 'Fuggles', cursive;
+    font-family: 'Roboto', sans-serif */;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    color:rgb(222, 54, 54);
+}
+.ss{
+    width: 700px;
+    padding-left: 7em;
+
+}
+.s{
+    color:rgb(222, 54, 54);
+}
+a{
+    color:rgb(222, 54, 54);
+    text-decoration: none;
+}
+a:hover{
+    color:lightblue
+}
+button{
+    background-color: rgb(222, 54, 54);
+    color: white;
+    border: 1px solid rgb(222, 54, 54);
+    border-radius: 1.5rem;
+    align-items: center;
+    margin-left: 20rem;
+    margin-top: 1.5rem;
+    height: 30px;
+    width: 150px;
+}
+button:hover{
+    height: 35px;
+    width: 170px;
+}
+.cc{
+      margin-left: 20em;
+      margin-top: 1.5rem;
+      display: flex;
+      gap: 15px;
+}
+.cc a:hover{
+      width: 40px;
+      height: 40px;
+}
+.ff{
+    margin-top: 3.5rem;
+    margin-left: 2.5rem;
+    
+
+}
+.ff >img{
+    border: 5px double gray;
+    border-radius: 200px;
+
+}
+.gg{
+    margin-right:30px;
+    width: 50%;
+}
+
+    
